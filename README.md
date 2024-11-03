@@ -18,7 +18,9 @@ emb_dim    : Embedding Dimension
 lr         : Learning Rate
 epochs     : Number of Epochs
 batch_size : Batch Size
-``` 
+```
+
+![training loss](loss.png)
 
 
 ## 4. Testing  
