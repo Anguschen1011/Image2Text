@@ -48,5 +48,6 @@ Recall for top 10 description : 45.6904 %
 </div>
 
 ## 6. TODO
-[x] code
-[]
+- [x] Code  
+- [x] Results
+- [ ] Improve the results
