@@ -10,7 +10,7 @@ This project uses the ```SynCap-Flickr8k```[Dataset](https://huggingface.co/data
 
 
 ## 3. Training
-```python train.py```
+Run ```python train.py```.  
 
 You can change the following parameters in the code.
 ```
@@ -24,7 +24,7 @@ batch_size : Batch Size
 
 
 ## 4. Testing  
-```python test.py```  
+Run ```python test.py```.  
 The results will be saved in the ```/results``` folder.  
 
 
