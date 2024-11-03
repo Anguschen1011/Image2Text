@@ -29,7 +29,7 @@ The results will be saved in the ```/results``` folder.
 
 
 ## 5. Results
-<p align="center"><i>Five examples in the testing results.</i></p>  
+<p align="center">Five examples in the testing results.</p>  
 
 | Images | Generated text |
 | :---: | :---: |
