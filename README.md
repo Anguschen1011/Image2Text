@@ -26,7 +26,11 @@ batch_size : Batch Size
 ## 4. Testing  
 Run ```python test.py```.  
 The results will be saved in the ```/results``` folder.  
-
+```
+Recall for top 1  description : 11.3808 %
+Recall for top 5  description : 32.8870 %
+Recall for top 10 description : 45.6904 %
+```
 
 ## 5. Results
 <p align="center">Five examples in the testing results.</p>  
