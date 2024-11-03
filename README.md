@@ -32,6 +32,7 @@ The results will be saved in the ```/results``` folder.
 <p align="center">Five examples in the testing results.</p>  
 
 <div style="text-align: center;">
+  
 | Images | Generated text |
 | :---: | :---: |
 | ![result_example](results/2.png)  | A man drives a green jeep over a few jagged rocks.            |
@@ -39,4 +40,5 @@ The results will be saved in the ```/results``` folder.
 | ![result_example](results/17.png) | A baby boy sucks on the sweater arm of the woman holding him. |
 | ![result_example](results/18.png) | A tan dog and a black dog are biting each other in the face.  |
 | ![result_example](results/20.png) | A man has his hand on his head while a speaker is speaking.   |
+
 </div>
