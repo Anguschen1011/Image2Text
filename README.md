@@ -31,7 +31,7 @@ The results will be saved in the ```/results``` folder.
 ## 5. Results
 <p align="center">Five examples in the testing results.</p>  
 
-<div style="text-align: center;">
+<div align="center"">
   
 | Images | Generated text |
 | :---: | :---: |
