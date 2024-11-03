@@ -29,7 +29,9 @@ The results will be saved in the ```/results``` folder.
 ## 5. Results
 | Images | Generated text |
 | :---: | :---: |
-| ![result_example](results/2.png) | Top 3 Captions for Image:<br>
-1: A man drives a green jeep over a few jagged rocks.<br>
-2: A boy playing in a pile of dead leaves.<br>
-3: A boy slides down a snowy hill in an innertube. |
+| ![result_example](results/2.png)  | A man drives a green jeep over a few jagged rocks.            |
+| ![result_example](results/7.png)  | A brown dog playing with a tennis ball.                       |
+| ![result_example](results/17.png) | A baby boy sucks on the sweater arm of the woman holding him. |
+| ![result_example](results/18.png) | A tan dog and a black dog are biting each other in the face.  |
+| ![result_example](results/20.png) | A man has his hand on his head while a speaker is speaking.   |
+
