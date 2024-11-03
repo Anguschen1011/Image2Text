@@ -5,7 +5,7 @@ This project runs on ```Google Colab```, and the execution results can be found 
 
 
 ## 2. Dataset
-This project uses the ```SynCap-Flickr8k```[[Dataset]](https://huggingface.co/datasets/kargwalaryan/SynCap-Flickr8k) dataset from Hugging Face for training.
+This project uses the ```SynCap-Flickr8k```[Dataset](https://huggingface.co/datasets/kargwalaryan/SynCap-Flickr8k)from Hugging Face for training.
 > Using the dataset requires Hugging Face's user access tokens. You can refer to: [[Link]](https://huggingface.co/docs/hub/security-tokens)
 
 
