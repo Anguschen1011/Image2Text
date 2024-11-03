@@ -27,8 +27,12 @@ The results will be saved in the ```/results``` folder.
 
 
 ## 5. Results
-![result_example](results/2.png)
-<p align="center"><i>Top 3 Captions for Image:
-1: A man drives a green jeep over a few jagged rocks .
-2: A boy playing in a pile of dead leaves .
-3: A boy slides down a snowy hill in an innertube ..</i></p>  
+<p align="center">
+  <img src="results/2.png" alt="result_example" />
+</p>
+<p align="center">
+  <i>Top 3 Captions for Image:</i><br>
+  1: A man drives a green jeep over a few jagged rocks.<br>
+  2: A boy playing in a pile of dead leaves.<br>
+  3: A boy slides down a snowy hill in an innertube.
+</p>
