@@ -29,6 +29,7 @@ The results will be saved in the ```/results``` folder.
 
 
 ## 5. Results
+Five examples in the testing results.
 | Images | Generated text |
 | :---: | :---: |
 | ![result_example](results/2.png)  | A man drives a green jeep over a few jagged rocks.            |
