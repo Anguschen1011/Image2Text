@@ -23,7 +23,7 @@ batch_size : Batch Size
 
 ## 4. Testing  
 ```python test.py```  
-The results will be saved in the ```results``` folder.  
+The results will be saved in the ```/results``` folder.  
 
 
 ## 5. Results
