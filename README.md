@@ -10,13 +10,14 @@ This project uses the ```SynCap-Flickr8k```[Dataset](https://huggingface.co/data
 
 
 ## 3. Training
-```python train.py```  
+```python train.py```
+
 You can change the following parameters in the code.
 ```
-emb_dim: Embedding Dimension
-lr: Learning Rate
-epochs: Number of Epochs
-batch_size: Batch Size
+emb_dim    : Embedding Dimension
+lr         : Learning Rate
+epochs     : Number of Epochs
+batch_size : Batch Size
 ``` 
 
 
